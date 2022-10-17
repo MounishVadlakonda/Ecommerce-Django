@@ -1,13 +1,21 @@
 
-## DJANGO COMPLETE ECOMMERCE - 
-# complete-djano-ecommerce-youtube
-Create a Fully Functional Ecommerce Application in Django | Django Ecommerce  - Welcome to the new series on Django e-commerce. Where we will be building a complete e-commerce application from ground zero. We will be Creating a fully functional e-commerce application in django.   #djangoecommerce #djangoecommercehindi #ecommerceapplicationdjango
+## DJANGO COMPLETE ECOMMERCE - SRINIVAS DRESSES
+
+-- This is fully functional DJANGO Ecommerce project --
+
+It has functionalities like login, logout, new user registeration.
+There are products listed in homepage, which upon clicking will view all the details of thr selected product. If you want the product you can it to your cart. After you are done with shopping you can proceed to checkout and do payment. As of now payment integration is not done to the current project.
+
+There are categories to choose from and the products in those categories. You can more categories and products from admin panel.
+
+To get into admin panel create your own superuser. For registration of user to login I have integrated email SMT where mails are sent to particular mail ID upon registration. If the email exists then it will ask you to enter new email ID.
+
+------------------ENJOY SHOPPING---------------------
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/HoTOlk79_iQ/0.jpg)](https://www.youtube.com/watch?v=HoTOlk79_iQ)
 
 
 
-# THIS IS A COMPLETE DJANGO ECOMMERCE TUTORIAL 
 
-django ecommerce application,django ecommerce hindi,django ecommerce multi vendor,django ecommerce website with multiple vendors,ecommerce django,ecommerce django project,ecommerce django tutorial,django ecommerce bangla,django ecommerce payment,fully funtional django ecommerce,django ecommerce tutorial,django ecommerce,ecommerce in django,django project,django ecommerce in hindi
+
+
