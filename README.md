@@ -12,7 +12,9 @@ To get into admin panel create your own superuser. For registration of user to l
 
 ------------------ENJOY SHOPPING---------------------
 
-https://drive.google.com/file/d/1zpt9QAewGX6NbrYht_hC508PriGeBnKY/view?usp=sharing
+Click the below link to watch the Working model of the project:
+
+"https://drive.google.com/file/d/1zpt9QAewGX6NbrYht_hC508PriGeBnKY/view?usp=sharing"
 
 
 
