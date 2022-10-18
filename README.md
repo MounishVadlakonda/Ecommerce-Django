@@ -1,4 +1,4 @@
-
+![logo](https://github.com/MounishVadlakonda/Ecommerce-Django/blob/master/695.jpg)
 ## DJANGO COMPLETE ECOMMERCE - SRINIVAS DRESSES
 
 -- This is fully functional DJANGO Ecommerce project --
